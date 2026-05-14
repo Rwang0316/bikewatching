@@ -1,7 +1,7 @@
 import mapboxgl from 'https://cdn.jsdelivr.net/npm/mapbox-gl@2.15.0/+esm';
 import * as d3 from 'https://cdn.jsdelivr.net/npm/d3@7.9.0/+esm';
 
-mapboxgl.accessToken = 'PASTE_TOKEN_HERE';
+mapboxgl.accessToken = 'pk.eyJ1IjoicndhbmcwMzE2IiwiYSI6ImNtcDRudm00aDEycXQyeHB5a2RnbmQzaWwifQ.G6xlkQjQJrTovWj4TRHcUg';
 
 const map = new mapboxgl.Map({
   container: 'map',
